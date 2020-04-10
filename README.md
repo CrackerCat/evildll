@@ -12,6 +12,7 @@ Malicious DLL (Win Reverse Shell) generator for DLL Hijacking
 #### Reverse TCP Port Forwarding using Ngrok.io
 #### Custom Port Forwarding option (LHOST,LPORT)
 #### Example of DLL Hijacking included (Half-Life Launcher file)
+#### Tested on Win7 (7601), Windows 10
 
 ### Requirements:
 #### Mingw-w64 compiler: apt-get install mingw-w64
