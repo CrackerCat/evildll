@@ -14,6 +14,7 @@ Malicious DLL (Win Reverse Shell) generator for DLL Hijacking
 #### Example of DLL Hijacking included (Half-Life Launcher file)
 
 ### Requirements:
+#### Mingw-w64 compiler: apt-get install mingw-w64
 #### Ngrok Authtoken (for TCP Tunneling): Sign up at: https://ngrok.com/signup
 #### Your authtoken is available on your dashboard: https://dashboard.ngrok.com
 #### Install your auhtoken: ./ngrok authtoken <YOUR_AUTHTOKEN>
